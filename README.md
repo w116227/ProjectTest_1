@@ -17,7 +17,7 @@
 
 官网： https://alifafa.io
 
-简介： [阿里发发出的新工具箱，实现了第一个产品发布！快来看看吧]
+简介： [阿里发发出的新工具箱，实现了第一个产品发布！快来看看吧](https://alifafa.cn/post/)
 
 来 ALiFaFa 就能发发，快来体验一下吧：https://play.gogocode.io
 
